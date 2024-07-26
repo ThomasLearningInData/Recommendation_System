@@ -5,6 +5,7 @@ This recommendation system utilizes a transformer model (DistilBERT) to provide 
 
 ### Adjustable parameters
 In here, I consider tag > location > score > price.
+
 <img width="481" alt="螢幕截圖 2024-07-25 下午5 45 00" src="https://github.com/user-attachments/assets/3499c667-aa74-4532-8262-ae4bff22b016">
 
 ### Result
